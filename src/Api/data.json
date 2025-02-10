@@ -1,0 +1,48 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "category": "Women footwear",
+      "brand": "Shoetopia",
+      "title": "Shoetopia Women's Town Heeled Sandal",
+      "description": "Shoetopia Women’s Heels are Very Comfortable to wear. They're well made with extra comfortable padded insole, slip-resistant resin outsole and soft anti-sweat lining.",
+      "oldprice": "1999",
+      "rate": "75",
+      "newprice": 500,
+      "image": "https://m.media-amazon.com/images/I/512tNz7LHtL._SY695_.jpg"
+    },
+    {
+      "id": "2",
+      "category": "Women footwear",
+      "brand": "Todhwear",
+      "title": "Double Cut Heeled Sandals Square Toe Sandals Slip On Fashion Wedding Chunky Block Mule Heels for Women",
+      "description": "Square open-toed is a popular trend, it does not bring pressure while setting off the toes Easy on and off: Open-back slip on mule style, take on and off effortlessly. Easily slip off it to relax your feet after a busy day.",
+      "oldprice": "899",
+      "rate": "56",
+      "newprice": 396,
+      "image": "https://m.media-amazon.com/images/I/519t0YrAlXL._SY695_.jpg"
+    },
+    {
+      "id": "3",
+      "category": "Men footwear",
+      "brand": "Bata",
+      "title": "Bata Mens I-and Laceup Casual Shoes,",
+      "description": "We are passionate about delighting our customers. Serving their individual needs defines everything we do.We are proud and energized by being part of a family company with deeply held values",
+      "oldprice": "1799",
+      "rate": "26",
+      "newprice": 1331,
+      "image": "https://m.media-amazon.com/images/I/514N4bUR79L._SY695_.jpg"
+    },
+    {
+      "id": "4",
+      "category": "Men footwear",
+      "brand": "ASIAN",
+      "title": "ASIAN Men's MEXICO-11 Casual Sneaker Shoes with Synthetic Upper Lightweight Comfortable Mid Top Sneaker Shoes for Men's & Boy's",
+      "description": "Benefits: Experience ultimate comfort through the EVA Sole of these shoes. Enjoy dynamic feet and arch support, coupled with slip-resistant features that effectively eliminate the possibility of accidental falls.",
+      "oldprice": "1499",
+      "rate": "43",
+      "newprice": 854,
+      "image": "https://m.media-amazon.com/images/I/81R6YbNKOzL._SY695_.jpg"
+    }
+  ]
+}
